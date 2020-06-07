@@ -1,9 +1,9 @@
-# Triangular-bracket
-3D printable triangular brackets. Different forms. Created with Rhino 6.
+# Wedges
+3D printable wedges, ceated with Rhino 6.
 
-#### 3D triangular-bracket
+#### 3D wedges
 The wedges can be used to mount something on a wall or in the corner between wall and ceiling. 
-This is very practical if you have little space in the basement.
+This is very practical if you have little space in the basement. There are different types of wedges.
 
 Requirements:
 * 3D printer 
@@ -15,4 +15,8 @@ Requirements:
 <img src="iso3.jpg" width="500" align="center">
 <img src="iso4.jpg" width="500" align="center">
 <img src="iso5.jpg" width="500" align="center">
+<img src="20200311-DSC04984.jpg" width="500" align="center">
+<img src="20200311-DSC04991.jpg" width="500" align="center">
+<img src="20200311-DSC04992.jpg" width="500" align="center">
+<img src="20200311-DSC04995.jpg" width="500" align="center">
 
