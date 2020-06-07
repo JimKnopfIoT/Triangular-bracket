@@ -10,6 +10,9 @@ Requirements:
 * Filament of your choice
 
 #### View
-<img src="Iso1.jpg" width="500" align="center"> 
-<img src="Iso2.jpg" width="500" align="center"> 
-<img src="Iso3.jpg" width="500" align="center">
+<img src="iso1.jpg" width="500" align="center"> 
+<img src="iso2.jpg" width="500" align="center"> 
+<img src="iso3.jpg" width="500" align="center">
+<img src="iso4.jpg" width="500" align="center">
+<img src="iso5.jpg" width="500" align="center">
+
