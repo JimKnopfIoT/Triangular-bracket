@@ -17,6 +17,6 @@ Requirements:
 <img src="iso5.jpg" width="500" align="center">
 <img src="20200311-DSC04984.jpg" width="500" align="center">
 <img src="20200311-DSC04991.jpg" width="500" align="center">
-<img src="20200311-DSC04992.jpg" width="500" align="center">
+<img src="20200311-DSC04992-2.jpg" width="500" align="center">
 <img src="20200311-DSC04995.jpg" width="500" align="center">
 
